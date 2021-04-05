@@ -19,9 +19,9 @@
 #
 
 pulp_soc:
-  commit: v2.0.1
+  commit: 30aa6c920d109d4ff702c1b7f9acfd1914a9ad27
   server: https://github.com
-  group:  pulp-platform
+  group:  pmaltoni
 
 tbtools:
   commit: v0.1
