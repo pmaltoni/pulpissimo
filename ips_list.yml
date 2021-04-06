@@ -19,7 +19,7 @@
 #
 
 pulp_soc:
-  commit: c1921475f1a2d54cee75996a8017288bc7705fa0
+  commit: master
   server: https://github.com
   group:  pmaltoni
 
