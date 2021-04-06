@@ -1,0 +1,106 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/scratch/pmaltoni/pulpissimo/sim
+vudma_i2c_bus_ctrl
+Z1 DXx6 sv_std 3 std 0 22 >9az<^>2ff9DAl3OFGaAf1
+Z2 !s110 1617616611
+!i10b 1
+!s100 C5_j0gk8NBBdB><YzBS;i3
+IkEi:0C7@2A4K2zE@dQ=fa2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 udma_i2c_bus_ctrl_sv_unit
+S1
+R0
+Z4 w1617351521
+8../ips/udma/udma_i2c/rtl/udma_i2c_bus_ctrl.sv
+F../ips/udma/udma_i2c/rtl/udma_i2c_bus_ctrl.sv
+L0 20
+Z5 OL;L;10.7b_1;67
+r1
+!s85 0
+31
+Z6 !s108 1617616611.000000
+!s107 ../ips/udma/udma_i2c/rtl/udma_i2c_top.sv|../ips/udma/udma_i2c/rtl/udma_i2c_control.sv|../ips/udma/udma_i2c/rtl/udma_i2c_bus_ctrl.sv|../ips/udma/udma_i2c/rtl/udma_i2c_reg_if.sv|
+Z7 !s90 -quiet|-sv|-work|/scratch/pmaltoni/pulpissimo/install/modelsim_libs/udma_i2c_lib|-suppress|2583|-suppress|13314|../ips/udma/udma_i2c/rtl/udma_i2c_reg_if.sv|../ips/udma/udma_i2c/rtl/udma_i2c_bus_ctrl.sv|../ips/udma/udma_i2c/rtl/udma_i2c_control.sv|../ips/udma/udma_i2c/rtl/udma_i2c_top.sv|
+!i113 0
+Z8 o-suppress 2583 -suppress 13314 -quiet -sv -work /scratch/pmaltoni/pulpissimo/install/modelsim_libs/udma_i2c_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+vudma_i2c_control
+R1
+R2
+!i10b 1
+!s100 1Ee2ke7E@[JLDI7Ik`]hO3
+I;=>j=znIWBX2b1KdnjB340
+R3
+!s105 udma_i2c_control_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2c/rtl/udma_i2c_control.sv
+F../ips/udma/udma_i2c/rtl/udma_i2c_control.sv
+Z10 L0 29
+R5
+r1
+!s85 0
+31
+R6
+Z11 !s107 ../ips/udma/udma_i2c/rtl/udma_i2c_top.sv|../ips/udma/udma_i2c/rtl/udma_i2c_control.sv|../ips/udma/udma_i2c/rtl/udma_i2c_bus_ctrl.sv|../ips/udma/udma_i2c/rtl/udma_i2c_reg_if.sv|
+R7
+!i113 0
+R8
+R9
+vudma_i2c_reg_if
+R1
+R2
+!i10b 1
+!s100 IF`LnQHEOoRIKooP3IMIR3
+Ik7S3E2PKDdGWGG8Jan]0P3
+R3
+!s105 udma_i2c_reg_if_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2c/rtl/udma_i2c_reg_if.sv
+F../ips/udma/udma_i2c/rtl/udma_i2c_reg_if.sv
+L0 39
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+vudma_i2c_top
+R1
+R2
+!i10b 1
+!s100 Sg<F5aY@L2iWY1X=Yf:^:3
+Idk0Rh;lSE74d`X>nV_eQN1
+R3
+!s105 udma_i2c_top_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2c/rtl/udma_i2c_top.sv
+F../ips/udma/udma_i2c/rtl/udma_i2c_top.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9

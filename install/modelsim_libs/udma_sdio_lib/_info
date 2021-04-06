@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/scratch/pmaltoni/pulpissimo/sim
+vsdio_crc16
+Z1 DXx6 sv_std 3 std 0 22 >9az<^>2ff9DAl3OFGaAf1
+Z2 !s110 1617616612
+!i10b 1
+!s100 ngYQWSf;gC5XPgd4e]aFa3
+I?<I5o]>k278gai6aHm?[B2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 sdio_crc16_sv_unit
+S1
+R0
+Z4 w1617351523
+8../ips/udma/udma_sdio/rtl/sdio_crc16.sv
+F../ips/udma/udma_sdio/rtl/sdio_crc16.sv
+Z5 L0 20
+Z6 OL;L;10.7b_1;67
+r1
+!s85 0
+31
+Z7 !s108 1617616612.000000
+!s107 ../ips/udma/udma_sdio/rtl/udma_sdio_top.sv|../ips/udma/udma_sdio/rtl/udma_sdio_reg_if.sv|../ips/udma/udma_sdio/rtl/sdio_txrx.sv|../ips/udma/udma_sdio/rtl/sdio_txrx_data.sv|../ips/udma/udma_sdio/rtl/sdio_txrx_cmd.sv|../ips/udma/udma_sdio/rtl/sdio_crc16.sv|../ips/udma/udma_sdio/rtl/sdio_crc7.sv|
+Z8 !s90 -quiet|-sv|-work|/scratch/pmaltoni/pulpissimo/install/modelsim_libs/udma_sdio_lib|-suppress|2583|-suppress|13314|../ips/udma/udma_sdio/rtl/sdio_crc7.sv|../ips/udma/udma_sdio/rtl/sdio_crc16.sv|../ips/udma/udma_sdio/rtl/sdio_txrx_cmd.sv|../ips/udma/udma_sdio/rtl/sdio_txrx_data.sv|../ips/udma/udma_sdio/rtl/sdio_txrx.sv|../ips/udma/udma_sdio/rtl/udma_sdio_reg_if.sv|../ips/udma/udma_sdio/rtl/udma_sdio_top.sv|
+!i113 0
+Z9 o-suppress 2583 -suppress 13314 -quiet -sv -work /scratch/pmaltoni/pulpissimo/install/modelsim_libs/udma_sdio_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vsdio_crc7
+R1
+R2
+!i10b 1
+!s100 iW5m5fTjk2zQ4bCOJHeSG3
+I0ZGKJOJ1VJen7Y<Ec;TOX2
+R3
+!s105 sdio_crc7_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_sdio/rtl/sdio_crc7.sv
+F../ips/udma/udma_sdio/rtl/sdio_crc7.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z11 !s107 ../ips/udma/udma_sdio/rtl/udma_sdio_top.sv|../ips/udma/udma_sdio/rtl/udma_sdio_reg_if.sv|../ips/udma/udma_sdio/rtl/sdio_txrx.sv|../ips/udma/udma_sdio/rtl/sdio_txrx_data.sv|../ips/udma/udma_sdio/rtl/sdio_txrx_cmd.sv|../ips/udma/udma_sdio/rtl/sdio_crc16.sv|../ips/udma/udma_sdio/rtl/sdio_crc7.sv|
+R8
+!i113 0
+R9
+R10
+vsdio_txrx
+R1
+R2
+!i10b 1
+!s100 ]YM;<[j7=dbi5K5>6c38Z0
+I8n;12l_DIKUDfl:LQAU^@1
+R3
+!s105 sdio_txrx_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_sdio/rtl/sdio_txrx.sv
+F../ips/udma/udma_sdio/rtl/sdio_txrx.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vsdio_txrx_cmd
+R1
+R2
+!i10b 1
+!s100 [dMCdi1=h0FUQ70QlaMQS2
+IO3WVE5PjAam0:Cl=7T`V^2
+R3
+!s105 sdio_txrx_cmd_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_sdio/rtl/sdio_txrx_cmd.sv
+F../ips/udma/udma_sdio/rtl/sdio_txrx_cmd.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vsdio_txrx_data
+R1
+R2
+!i10b 1
+!s100 E@EfU1;]T[HB3YLm5TM4W2
+IngE>PH0ncQIKGoS5<mS`k0
+R3
+!s105 sdio_txrx_data_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_sdio/rtl/sdio_txrx_data.sv
+F../ips/udma/udma_sdio/rtl/sdio_txrx_data.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vudma_sdio_reg_if
+R1
+R2
+!i10b 1
+!s100 ERM16L4?=6h6d9;X`3YQW0
+IMBHh>YA1JnboPnbd:dNM03
+R3
+!s105 udma_sdio_reg_if_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_sdio/rtl/udma_sdio_reg_if.sv
+F../ips/udma/udma_sdio/rtl/udma_sdio_reg_if.sv
+L0 45
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vudma_sdio_top
+R1
+R2
+!i10b 1
+!s100 fielhFaeP^ZB3C@?b=^;21
+IJDD=]>bIOJVTP?SeUfFb62
+R3
+!s105 udma_sdio_top_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_sdio/rtl/udma_sdio_top.sv
+F../ips/udma/udma_sdio/rtl/udma_sdio_top.sv
+L0 21
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10

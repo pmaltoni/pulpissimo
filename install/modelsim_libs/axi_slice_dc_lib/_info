@@ -1,0 +1,274 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/scratch/pmaltoni/pulpissimo/sim
+vaxi_cdc
+Z1 DXx6 sv_std 3 std 0 22 >9az<^>2ff9DAl3OFGaAf1
+Z2 !s110 1617616608
+!i10b 1
+!s100 QWg[:STWMHog<XFJW[Da@3
+II0Oh[0B2IeaI`W81kkB>m1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 axi_cdc_sv_unit
+S1
+R0
+Z4 w1617351510
+8../ips/axi/axi_slice_dc/src/axi_cdc.sv
+F../ips/axi/axi_slice_dc/src/axi_cdc.sv
+L0 15
+Z5 OL;L;10.7b_1;67
+r1
+!s85 0
+31
+Z6 !s108 1617616608.000000
+!s107 ../ips/axi/axi_slice_dc/src/axi_cdc.sv|../ips/axi/axi_slice_dc/src/axi_slice_dc_slave_wrap.sv|../ips/axi/axi_slice_dc/src/axi_slice_dc_master_wrap.sv|../ips/axi/axi_slice_dc/src/dc_token_ring.v|../ips/axi/axi_slice_dc/src/dc_token_ring_fifo_dout.v|../ips/axi/axi_slice_dc/src/dc_token_ring_fifo_din.v|../ips/axi/axi_slice_dc/src/dc_synchronizer.v|../ips/axi/axi_slice_dc/src/dc_full_detector.v|../ips/axi/axi_slice_dc/src/dc_data_buffer.sv|../ips/axi/axi_slice_dc/src/axi_slice_dc_slave.sv|../ips/axi/axi_slice_dc/src/axi_slice_dc_master.sv|
+Z7 !s90 -quiet|-sv|-work|/scratch/pmaltoni/pulpissimo/install/modelsim_libs/axi_slice_dc_lib|-suppress|2583|-suppress|13314|../ips/axi/axi_slice_dc/src/axi_slice_dc_master.sv|../ips/axi/axi_slice_dc/src/axi_slice_dc_slave.sv|../ips/axi/axi_slice_dc/src/dc_data_buffer.sv|../ips/axi/axi_slice_dc/src/dc_full_detector.v|../ips/axi/axi_slice_dc/src/dc_synchronizer.v|../ips/axi/axi_slice_dc/src/dc_token_ring_fifo_din.v|../ips/axi/axi_slice_dc/src/dc_token_ring_fifo_dout.v|../ips/axi/axi_slice_dc/src/dc_token_ring.v|../ips/axi/axi_slice_dc/src/axi_slice_dc_master_wrap.sv|../ips/axi/axi_slice_dc/src/axi_slice_dc_slave_wrap.sv|../ips/axi/axi_slice_dc/src/axi_cdc.sv|
+!i113 0
+Z8 o-suppress 2583 -suppress 13314 -quiet -sv -work /scratch/pmaltoni/pulpissimo/install/modelsim_libs/axi_slice_dc_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+vaxi_slice_dc_master
+R1
+R2
+!i10b 1
+!s100 BBSWBEVJ=z5[j2]1I;[KF1
+IC6;2DOkE^0CSo@Ph>[oNl1
+R3
+!s105 axi_slice_dc_master_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_slice_dc/src/axi_slice_dc_master.sv
+F../ips/axi/axi_slice_dc/src/axi_slice_dc_master.sv
+Z10 L0 11
+R5
+r1
+!s85 0
+31
+R6
+Z11 !s107 ../ips/axi/axi_slice_dc/src/axi_cdc.sv|../ips/axi/axi_slice_dc/src/axi_slice_dc_slave_wrap.sv|../ips/axi/axi_slice_dc/src/axi_slice_dc_master_wrap.sv|../ips/axi/axi_slice_dc/src/dc_token_ring.v|../ips/axi/axi_slice_dc/src/dc_token_ring_fifo_dout.v|../ips/axi/axi_slice_dc/src/dc_token_ring_fifo_din.v|../ips/axi/axi_slice_dc/src/dc_synchronizer.v|../ips/axi/axi_slice_dc/src/dc_full_detector.v|../ips/axi/axi_slice_dc/src/dc_data_buffer.sv|../ips/axi/axi_slice_dc/src/axi_slice_dc_slave.sv|../ips/axi/axi_slice_dc/src/axi_slice_dc_master.sv|
+R7
+!i113 0
+R8
+R9
+vaxi_slice_dc_master_wrap
+R1
+R2
+!i10b 1
+!s100 ;HiB4k;mAWA`JH6Y4`l970
+ID^Kn`zKXVIH@79inKTRn43
+R3
+!s105 axi_slice_dc_master_wrap_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_slice_dc/src/axi_slice_dc_master_wrap.sv
+F../ips/axi/axi_slice_dc/src/axi_slice_dc_master_wrap.sv
+L0 33
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+vaxi_slice_dc_slave
+R1
+R2
+!i10b 1
+!s100 dKIiE8NSd=[fC7AgS[]Uk2
+I<ScSTk_zMlA3@311ZM2UY1
+R3
+!s105 axi_slice_dc_slave_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_slice_dc/src/axi_slice_dc_slave.sv
+F../ips/axi/axi_slice_dc/src/axi_slice_dc_slave.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+vaxi_slice_dc_slave_wrap
+R1
+R2
+!i10b 1
+!s100 2zNj5mimDn7e[cGOD_P=L3
+IR^3A0a^;aD@[4mlm=g`OO0
+R3
+!s105 axi_slice_dc_slave_wrap_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_slice_dc/src/axi_slice_dc_slave_wrap.sv
+F../ips/axi/axi_slice_dc/src/axi_slice_dc_slave_wrap.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+vdc_data_buffer
+R1
+R2
+!i10b 1
+!s100 174a5]Lzb?UY]i4NhJ0j33
+I<=^5k?YD;Rg:RTZ6YdH>j2
+R3
+!s105 dc_data_buffer_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_slice_dc/src/dc_data_buffer.sv
+F../ips/axi/axi_slice_dc/src/dc_data_buffer.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+vdc_full_detector
+R1
+R2
+!i10b 1
+!s100 =dDbUZ87FMEfl3nK3Xd]S3
+I5hY5fno`^G;Dd0gcgd78m0
+R3
+!s105 dc_full_detector_v_unit
+S1
+R0
+R4
+8../ips/axi/axi_slice_dc/src/dc_full_detector.v
+F../ips/axi/axi_slice_dc/src/dc_full_detector.v
+R10
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+vdc_synchronizer
+R1
+R2
+!i10b 1
+!s100 ;;CX>fQISVhU?=PI:=>`e2
+IHbLz:STUPT?nVo0m=5JE:0
+R3
+!s105 dc_synchronizer_v_unit
+S1
+R0
+R4
+8../ips/axi/axi_slice_dc/src/dc_synchronizer.v
+F../ips/axi/axi_slice_dc/src/dc_synchronizer.v
+R10
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+vdc_token_ring
+R1
+R2
+!i10b 1
+!s100 1K7[aK_E>a0Cg]h[GPVYa3
+IBXlRlb1]S=BmiRTaBdSH22
+R3
+!s105 dc_token_ring_v_unit
+S1
+R0
+R4
+8../ips/axi/axi_slice_dc/src/dc_token_ring.v
+F../ips/axi/axi_slice_dc/src/dc_token_ring.v
+R10
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+vdc_token_ring_fifo_din
+R1
+R2
+!i10b 1
+!s100 AOicW9W;QSMk1kkH8FBXU2
+I_C;NePARj96b?`c8bY4UR1
+R3
+!s105 dc_token_ring_fifo_din_v_unit
+S1
+R0
+R4
+8../ips/axi/axi_slice_dc/src/dc_token_ring_fifo_din.v
+F../ips/axi/axi_slice_dc/src/dc_token_ring_fifo_din.v
+R10
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+vdc_token_ring_fifo_dout
+R1
+R2
+!i10b 1
+!s100 =Ng1RcY0al51J4L47Sh4z0
+II^B7_hUiKQfQd3WD^=P_01
+R3
+!s105 dc_token_ring_fifo_dout_v_unit
+S1
+R0
+R4
+8../ips/axi/axi_slice_dc/src/dc_token_ring_fifo_dout.v
+F../ips/axi/axi_slice_dc/src/dc_token_ring_fifo_dout.v
+R10
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
